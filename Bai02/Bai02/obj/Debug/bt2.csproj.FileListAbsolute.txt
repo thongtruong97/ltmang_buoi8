@@ -1,0 +1,3 @@
+C:\Users\Thong\Desktop\BUOI8\NetworkProgramming-Lab08-master\Bai02\Bai02\bin\Debug\Bai02.exe.config
+C:\Users\Thong\Desktop\BUOI8\NetworkProgramming-Lab08-master\Bai02\Bai02\obj\Debug\Bai02.exe
+C:\Users\Thong\Desktop\BUOI8\NetworkProgramming-Lab08-master\Bai02\Bai02\obj\Debug\Bai02.pdb
